@@ -1,0 +1,12 @@
+{
+  "name": "DOODOO",
+  "symbol": "DOO",
+  "description": "DOODOO ($DOO) — Reinstate the meme.",
+  "image": "https://raw.githubusercontent.com/Olajosh80/doo-token/main/doo.png",
+  "external_url": "https://x.com/Reinstate_meme",
+  "extensions": {
+    "twitter": "https://x.com/Reinstate_meme",
+    "telegram": "https://t.me/Reinstate_Channel",
+    "telegramGroup": "https://t.me/Reinstate_Meme"
+  }
+}
